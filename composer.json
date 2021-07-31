@@ -1,9 +1,12 @@
 {
     "name": "pschocke/nova-plausible-analytics",
-    "description": "A Laravel Nova card.",
+    "description": "A Laravel Nova card to display Plausible.io Analytics in Nova.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "Plausible Analytics",
+        "Plausible.io",
+        "Pschocke"
     ],
     "license": "MIT",
     "require": {

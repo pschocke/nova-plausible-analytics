@@ -1,5 +1,7 @@
 # Plausible Analytics Integration with Nova
 
+![image](https://user-images.githubusercontent.com/26882621/127747216-d53b3116-8530-4123-a873-8266f0d0e281.png)
+
 Display statistics from Plausible analytics directly in Laravel Nova
 
 This package is highly inspired by the [Google Analytics Integration Package from Tighten](https://github.com/tighten/nova-google-analytics) and shares some if its code.
